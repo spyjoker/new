@@ -74,7 +74,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173", # Frontend URL
     "http://127.0.0.1:5173", # Frontend URL
-    "https://mentalwellenessagent.netlify.app"
+    "https://number-sadh.onrender.com"
 ]
 
 ROOT_URLCONF = "wellness_api.urls"
