@@ -1,0 +1,7 @@
+Django==5.1.7
+djangorestframework==3.15.1
+google-genai
+gunicorn
+whitenoise
+python-dotenv
+django-cors-headers
